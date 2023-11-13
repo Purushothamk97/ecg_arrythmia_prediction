@@ -1,7 +1,7 @@
 # ECG_arrythmia_prediction
 Predicting type of arrhythmia based on ecg data mpodified into csv files.
 Dataset is obtained from kaggle with 5 classes of arrythmias.
-The dataset is available at the below link:
+The dataset is available at the below [link](https://www.kaggle.com/datasets/shayanfazeli/heartbeat):
 https://www.kaggle.com/datasets/shayanfazeli/heartbeat
 
 Linear regression model is used for the prediction.
